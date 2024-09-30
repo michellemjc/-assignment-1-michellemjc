@@ -1,0 +1,14 @@
+body {
+    background-color: #f6cece;
+    }
+    
+    <style>
+    body {
+      background-color: #ff555520;
+}</style>
+
+    img {
+        width: 100%;
+        display: block;
+        margin: 5 auto;
+      }
